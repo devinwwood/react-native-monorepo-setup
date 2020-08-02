@@ -1,0 +1,21 @@
+{
+  "name": "@port/common",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "rimraf dist && tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-native": "^0.63.2"
+  },
+  "devDependencies": {
+    "@types/react-native": "^0.63.2",
+    "rimraf": "^3.0.2",
+    "typescript": "^3.9.7"
+  }
+}
