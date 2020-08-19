@@ -1,2 +1,2 @@
-# react-native-web-portfolio
-React native web portfolio
+# react-native-monorepo-setup
+React native setup for a single codebase to compile on ios, android, and web. 
